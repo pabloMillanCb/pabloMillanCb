@@ -1,6 +1,4 @@
-### Holaa 🌱
-
-![](https://github.com/pabloMillanCb/pabloMillanCb/blob/main/z73ndwg0z9381.gif)
+### Android developer in the ofice, gamedev at home 🌱
 
 <!--
 **pabloMillanCb/pabloMillanCb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
